@@ -16,11 +16,11 @@ Entender o papel das interfaces em Java, suas vantagens e quando utilizá-las na
 
 ## Porque foi útil usar a interface?
 
-_texto_
+Ao fazer o uso de interfaces foi possível deixar o código mais organizado, flexível e facilitar sua manuntenção, pois esse modelo oculta os detalhes da implementação, expondo apenas o que é necessário, com este tipo de desacoplamento é possível separar melhor as responsabilidades de cada parte do código, além de permitir tratar diferentes classes de forma genérica e definir contratos comuns para várias classes.
 
 ## Quais seriam as desvantagens se não usássemos interface?
 
-_texto_
+Na ausência de uma interface, é notório o inverso de todas as suas vantagens de uso, sendo assim, as classes dependeriam diretamente de implementações concretas, estabilizando um forte acoplamento no projeto inteiro, além disso, tornaria mais difícil modificar ou estender funcionalidades sem alterar várias partes do código, limitaria o reaproveitamento de código, fragilizaria o sistema a muidanças e anularia a vantagem do uso do polimorfismo.
 
 ### Grupo Provas
 
