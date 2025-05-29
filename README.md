@@ -20,7 +20,7 @@ Ao fazer o uso de interfaces foi possível deixar o código mais organizado, fle
 
 ## Quais seriam as desvantagens se não usássemos interface?
 
-Na ausência de uma interface, é notório o inverso de todas as suas vantagens de uso, sendo assim, as classes dependeriam diretamente de implementações concretas, estabilizando um forte acoplamento no projeto inteiro, além disso, tornaria mais difícil modificar ou estender funcionalidades sem alterar várias partes do código, limitaria o reaproveitamento de código, fragilizaria o sistema a muidanças e anularia a vantagem do uso do polimorfismo.
+Na ausência de uma interface, é notório o inverso de todas as suas vantagens de uso, sendo assim, as classes dependeriam diretamente de implementações concretas, estabilizando um forte acoplamento no projeto inteiro, além disso, tornaria mais difícil modificar ou estender funcionalidades sem alterar várias partes do código, limitaria o reaproveitamento de código, fragilizaria o sistema a mudanças e anularia a vantagem do uso do polimorfismo.
 
 ### Grupo Provas
 
